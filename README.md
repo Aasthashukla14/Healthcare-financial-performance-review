@@ -26,3 +26,19 @@ Compliance & Risk Management:
 Ensuring adherence to healthcare regulations, billing standards, and minimizing financial risk.
 
 The outcome of this review helps management identify strengths, detect inefficiencies, optimize budgeting, and guide strategic decision-making for better patient outcomes and sustainable growth.
+
+Technologies commonly used in Healthcare Financial Performance Review include:
+
+🧮 Business Intelligence (BI) Tools – Power BI, Tableau, QlikView for data visualization and reporting.
+
+☁️ Cloud Computing – AWS, Azure, or Google Cloud for secure data storage and analytics.
+
+🩺 Electronic Health Record (EHR) Systems – Epic, Cerner, Allscripts for integrating clinical and financial data.
+
+🤖 Artificial Intelligence (AI) & Machine Learning (ML) – for predictive analytics, cost forecasting, and anomaly detection.
+
+🧠 Data Analytics Platforms – Python, R, or SQL for financial trend and performance analysis.
+
+🔐 Cybersecurity Tools – to protect sensitive patient and financial data (HIPAA compliance).
+
+📊 ERP & Financial Management Systems – SAP, Oracle, QuickBooks for budgeting, billing, and accounting integration.
