@@ -27,7 +27,9 @@ Ensuring adherence to healthcare regulations, billing standards, and minimizing 
 
 The outcome of this review helps management identify strengths, detect inefficiencies, optimize budgeting, and guide strategic decision-making for better patient outcomes and sustainable growth.
 
+
 Technologies commonly used in Healthcare Financial Performance Review include:
+
 
 🧮 Business Intelligence (BI) Tools – Power BI, Tableau, QlikView for data visualization and reporting.
 
